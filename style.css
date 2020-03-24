@@ -1,0 +1,20 @@
+body {
+  font-family: "Helvetica Neue",
+  Arial,
+  "Hiragino Kaku Gothic ProN",
+  "Hiragino Sans",
+  Meiryo,
+  sans-serif;
+  margin: 0;
+  font-size: 80px;
+  color: rgb(00, 00, 255);
+  text-align: center;
+}
+
+ p{
+   margin: 0;
+   background:linear-gradient(transparent 0%,#ffff66 0%)
+ }
+
+ 
+  
